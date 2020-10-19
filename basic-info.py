@@ -184,11 +184,6 @@ def askURL(url):
     return html
 
 
-def getCitedinfo(url):
-    # 寻找引用的文献信息，传入的是引用文献的网址，在上一个函数里得到。
-    return
-
-
 if __name__ == '__main__':
     main()
 
